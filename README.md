@@ -1,2 +1,5 @@
 # hello-world
-first try coding in C with the program "Hello World"
+
+Hi there ! 
+
+Tall frenchy currently living in Paris, loving tea but without milk. 
